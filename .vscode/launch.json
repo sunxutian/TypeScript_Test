@@ -7,7 +7,7 @@
         "type": "node",
         "request": "launch",
         "name": "Launch Program",
-        "program": "${workspaceRoot}/bin/helloWorld.js",
+        "program": "${workspaceRoot}/bin/t1.js",
         "outFiles": [
             "${workspaceRoot}/bin/*.js"
         ],
