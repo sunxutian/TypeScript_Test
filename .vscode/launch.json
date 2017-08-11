@@ -9,7 +9,7 @@
         "name": "Launch Program",
         "program": "${workspaceRoot}/bin/t1.js",
         "outFiles": [
-            "${workspaceRoot}/bin/*.js"
+            "${workspaceRoot}/bin/**/*.js"
         ],
         "sourceMaps": true
     }]
